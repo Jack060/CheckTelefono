@@ -40,7 +40,7 @@ etc
             }
         }
 ```
-
+utilizzo il primo for per caricare il primo numero di telefono nell'array "numero", inizializzo la variabile "prefisso" per poi caricarla nel secondo for scorrendo i primi tre caratteri del vettore "numero"
 </details>
 <details>
 <summary>controllo del numero con il prefisso '0039'</summary>
